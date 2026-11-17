@@ -1,0 +1,6 @@
+{
+  "name": "Linda Evelyn - StrideLab Coaching",
+  "description": "Personalized running and fitness coaching providing structured guidance for 5K, 10K, and half marathon runners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
